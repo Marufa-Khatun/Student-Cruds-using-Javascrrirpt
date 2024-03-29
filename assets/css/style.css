@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/dark-blue-product-background_53876-92801.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.students img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.students table tr{
+    vertical-align: middle;
+}
+.students table tr th{
+    color: rgb(110, 107, 114);
+}
+.students h2{
+    color: rgb(110, 107, 114);
+   
+}
+.student-data{
+    text-align: center;
+}
+.student-data img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 20px;  
+}
